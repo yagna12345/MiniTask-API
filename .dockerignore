@@ -1,0 +1,2 @@
+# TODO: Exclude files that are not needed in the Docker build context.
+# Consider .venv, .git, __pycache__, .pytest_cache, and .env.
